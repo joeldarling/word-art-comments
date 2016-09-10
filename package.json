@@ -1,0 +1,18 @@
+{
+  "name": "word-art-comments",
+  "main": "./lib/word-art-comments",
+  "version": "0.1.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "word-art-comments:toggle"
+  },
+  "repository": "https://github.com/joeldarling/word-art-comments.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

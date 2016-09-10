@@ -1,7 +1,7 @@
 {
   "name": "word-art-comments",
   "main": "./lib/word-art-comments",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Make ASCII Art Comments!",
   "keywords": [],
   "activationCommands": {

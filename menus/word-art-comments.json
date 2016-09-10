@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle word-art-comments",
-        "command": "word-art-comments:toggle"
+        "label": "Convert word-art-comments",
+        "command": "word-art-comments:convert"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "word-art-comments",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "word-art-comments:toggle"
+              "label": "Convert",
+              "command": "word-art-comments:convert"
             }
           ]
         }
